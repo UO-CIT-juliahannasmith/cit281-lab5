@@ -4,4 +4,4 @@
 
 ### About this lab:
 * Introduction to Postman
-* Become familar with GET and POST verbs 
+* Become familiar with GET and POST verbs 
